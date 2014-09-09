@@ -1,0 +1,2 @@
+ticker,profit,week_day,speed,time,type,q1,q2,q3,extr_point,extr_val,raznica,trend,colorchange,volprev,vol,rel,dif,direction,%dif,timetrade
+Eu_1h,,2,14,14:25:42,Купля,1,1,0,3,49048,181,0,0,15284,2493,84.441988950276,107,true,0.33

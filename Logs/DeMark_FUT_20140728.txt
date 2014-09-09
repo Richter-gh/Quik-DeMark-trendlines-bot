@@ -1,0 +1,4 @@
+100100: Si_1h:  takeprofit for long <= current price, skipping trade 
+100100: Eu_1h:  takeprofit for long <= current price, skipping trade 
+180004: RI_1h_1: сигнал в лонг, стоп: 119824, тейк: 120584, вход 119900 
+180048: RI_1h_1: закрыл лонг, тп: 120584, цена: 119840 

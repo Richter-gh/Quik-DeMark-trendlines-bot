@@ -1,0 +1,2 @@
+ticker,profit,week_day,speed,time,type,q1,q2,q3,extr_point,extr_val,raznica,trend,colorchange,volprev,vol,rel,dif,direction,%dif,timetrade
+SR_1h,,2,6.42857,12:00:40,Продажа,0,1,1,0,7474,111,1,0,0,3915,0,68,true,-0.05

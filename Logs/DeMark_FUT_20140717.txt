@@ -1,0 +1,27 @@
+100101: RI_1h tpvalue for short is 2082.8571428571 > tpmax=600..setting tp to 500 
+100101: RI_1h:  takeprofit for short >= current price, skipping trade 
+100101: RI_1h_1 tpvalue for short is 1912.8571428571 > tpmax=600..setting tp to 500 
+100101: RI_1h_1:  takeprofit for short >= current price, skipping trade 
+100101: RI_1h_2 tpvalue for short is 2052.8571428571 > tpmax=600..setting tp to 500 
+100101: RI_1h_2:  takeprofit for short >= current price, skipping trade 
+100102: GZ_1h_1:  takeprofit for short >= current price, skipping trade 
+100102: SR_1h tpvalue for short is 155 > tpmax=150..setting tp to 50 
+100102: SR_1h:  takeprofit for short >= current price, skipping trade 
+100103: SR_1h_1:  takeprofit for short >= current price, skipping trade 
+100103: SR_1h_2:  takeprofit for short >= current price, skipping trade 
+100103: Si_1h:  takeprofit for long <= current price, skipping trade 
+100103: Eu_1h:  takeprofit for long <= current price, skipping trade 
+152056: GZ_1h_1: сигнал в шорт, стоп: 14074, тейк: 13949, вход 14031 
+153230: GZ_1h_1: сработал стоп по шорту, стоп: 14074, цена: 14074 
+153232: GZ_1h_1: trading off due to margin<=0.02 profit from GO 
+160008: GZ_1h_1: сигнал в лонг, стоп: 14043, тейк: 14122, вход 14069 
+160709: GZ_1h_1: сработал стоп по лонгу, стоп: 14043, цена: 14040 
+191950: GZ_1h: сигнал в шорт, стоп: 14095, тейк: 13870, вход 14018 
+191950: GZ_1h_1: сигнал в шорт, стоп: 14095, тейк: 13870, вход 14018 
+191950: GZ_1h_2: сигнал в шорт, стоп: 14095, тейк: 13870, вход 14018 
+192742: GZ_1h: перенос стоплосса для шорта на 2% от го, тейк: 13870, новый стоп: 13996.74 
+192742: GZ_1h_1: перенос стоплосса для шорта на 2% от го, тейк: 13870, новый стоп: 13996.74 
+192742: GZ_1h_2: перенос стоплосса для шорта на 2% от го, тейк: 13870, новый стоп: 13996.74 
+202451: GZ_1h: сработал стоп по шорту, стоп: 13996.74, цена: 13998 
+202451: GZ_1h_1: сработал стоп по шорту, стоп: 13996.74, цена: 13998 
+202451: GZ_1h_2: сработал стоп по шорту, стоп: 13996.74, цена: 13998 

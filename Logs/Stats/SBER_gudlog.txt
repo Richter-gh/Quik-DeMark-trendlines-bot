@@ -1,0 +1,2 @@
+ticker,profit,week_day,speed,time,type,q1,q2,q3,extr_point,extr_val,raznica,trend,colorchange,volprev,vol,rel,dif,direction,%dif,timetrade
+SBER,,2,0.01429,11:17:00,Купля,0,1,0,2,83.8,2.69,1,0,14044753,2612264,5221097.7695167,1.71,false,0

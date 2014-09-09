@@ -1,0 +1,15 @@
+100520: RI_1h_1:  takeprofit for long <= current price, skipping trade 
+100520: RI_1h_2:  takeprofit for long <= current price, skipping trade 
+153953: GZ_1h_1 tpvalue for short is 89.571428571429 > tpmax=60..setting tp to 50 
+153953: GZ_1h_1: сигнал в шорт, стоп: 12957, тейк: 12882, вход 12947 
+153954: GZ_1h_1: сработал стоп по шорту, стоп: 12957, цена: 12960 
+155124: RI_1h_1 tpvalue for short is 800 > tpmax=600..setting tp to 500 
+155124: RI_1h_1: сигнал в шорт, стоп: 118940, тейк: 118190, вход 118980 
+155125: RI_1h_1: сработал стоп по шорту, стоп: 118940, цена: 119060 
+160003: RI_1h_2 tpvalue for short is 620 > tpmax=600..setting tp to 500 
+160003: RI_1h_2: сигнал в шорт, стоп: 119270, тейк: 118520, вход 119050 
+162003: RI_1h_2: сработал стоп по шорту, стоп: 119270, цена: 119270 
+162004: RI_1h_2 offline, profit= -220 
+182026: RI_1h tpvalue for short is 660 > tpmax=600..setting tp to 500 
+182026: RI_1h: сигнал в шорт, стоп: 119930, тейк: 119180, вход 119990 
+182027: RI_1h: сработал стоп по шорту, стоп: 119930, цена: 120000 

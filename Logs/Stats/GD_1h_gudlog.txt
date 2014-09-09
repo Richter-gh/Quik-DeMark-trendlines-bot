@@ -1,0 +1,2 @@
+ticker,profit,week_day,speed,time,type,q1,q2,q3,extr_point,extr_val,raznica,trend,colorchange,volprev,vol,rel,dif,direction,%dif,timetrade
+GD_1h,,1,0.41579,19:56:35,Купля,0,1,0,0,1313.8,4.7,1,0,0,1718,0,3.1000000000001,true,0.09

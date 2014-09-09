@@ -1,0 +1,2 @@
+ticker,profit,week_day,speed,time,type,q1,q2,q3,extr_point,extr_val,raznica,trend,colorchange,volprev,vol,rel,dif,direction,%dif,timetrade
+SGNSP,,1,0.094,12:49:50,Купля,1,1,0,5,27.472,0.67,0,1,922255,92459,1376500,0.56,false,0

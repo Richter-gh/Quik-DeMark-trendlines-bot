@@ -1,0 +1,2 @@
+ticker,profit,week_day,speed,time,type,q1,q2,q3,extr_point,extr_val,raznica,trend,colorchange,volprev,vol,rel,dif,direction,%dif,timetrade
+BANEP,,1,11.12308,11:21:51,Купля,0,1,1,0,1634.7,95.3,2,0,0,1209,0,0,true,1.23
